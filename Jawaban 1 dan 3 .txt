@@ -1,0 +1,21 @@
+Nama : Putri Ayu Nur Handayani
+NIM  : 20201268
+
+Jawaban No 1
+
+ 
+REST API adalah gaya arsitektur perangkat lunak atau antarmuka pemrograman yang menjembatani pengembangan klien berbicara dengan server yang dibuat untuk memandu desain dan pengembangan arsitektur World Wide Web.
+setiap URL disebut permintaan dan data yang dikirim kembali kepada Anda disebut tanggapan .
+REST menentukan tampilan API. 
+Layanan web adalah kumpulan protokol terbuka dan standar yang digunakan untuk bertukar data antara aplikasi atau sistem. Layanan web didasarkan pada Arsitektur REST dikenal sebagai layanan web RESTful.
+
+
+Jawaban No 3
+
+Understanding Headless Architecture: What Is It?
+
+Arsitektur Headless Architecture sangat menyederhanakan multichannel publishing. CMS tidak dirancang untuk pengoptimalan alur kerja konten untuk pengguna memposting secara dinamis ke berbagai platform
+Arsitektur Headless Architecture memberikan jawaban yang menarik untuk kebutuhan beberapa sistem untuk bekerja bersama meskipun tujuan dan fungsinya berbeda. 
+Solusi ini melayani pengalaman digital sejati dengan memungkinkan mmultichannel possible.
+CMS tersebut tidak dirancang untuk mengoptimalkan alur kerja konten dengan memungkinkan pengguna memposting secara dinamis ke berbagai platform. Back-end mewakili area tempat konten disimpan dan dikelola, 
+sedangkan front-end sesuai dengan tempat konten ditampilkan.
